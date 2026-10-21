@@ -303,6 +303,6 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
 <div align="center">
 
-Made by **<your-name>** · If you like it, drop a ⭐
+Made by **<TokenElevation>** · If you like it, drop a ⭐
 
 </div>
